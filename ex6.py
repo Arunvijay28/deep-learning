@@ -23,7 +23,7 @@ def extract_features(img_path):
     return features
 
 # Load and preprocess an image
-img_path = 'horse.jpg'  # Replace with your image path
+img_path = 'D:\Arun\learning\Github\deeplearning\deep-learning\horse.jpg'  # Replace with your image path
 features = extract_features(img_path)
 
 # Print the shape of the feature map
